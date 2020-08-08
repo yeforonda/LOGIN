@@ -84,7 +84,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/round_bg"
-        android:text="¡A LAVAR!"
+        android:text="¡VAMOS A LAVAR!"
         android:textColor="#FFFFFF"
         android:textSize="18dp"
         android:textStyle="bold"
